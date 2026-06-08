@@ -300,6 +300,7 @@ Easy access to academic resources.
 Support literature review activities.
 
 FUTURE ENHANCEMENTS
+
 Integration with university systems.
 Artificial Intelligence-based project recommendations.
 Plagiarism detection module.
