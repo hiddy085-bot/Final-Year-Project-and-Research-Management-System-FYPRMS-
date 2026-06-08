@@ -1,5 +1,20 @@
 # Final-Year-Project-and-Research-Management-System-FYPRMS-
 
+
+Developer Information
+
+This project, Final Year Project and Research Management System (FYPRMS), was designed and developed as an academic project to demonstrate the application of web technologies in solving challenges related to the management, storage, retrieval, and dissemination of academic projects and research papers within higher learning institutions in Tanzania. The system aims to provide a centralized digital repository that promotes knowledge sharing, preserves academic resources, and improves access to research outputs across universities.
+
+Developed by: HUSSEIN IDD SAMIHU
+Registration Number: 14322006/T.24
+Programme: Bachelor of Science in Information Technology Systems (BSc. ITS2)
+Institution: Mzumbe University, Tanzania. The university is a public higher-learning institution with campuses in Morogoro, Dar es Salaam, and Mbeya.
+
+Academic Year: 2025/2026
+
+
+THE PROJECT OVERVIEW
+
 The Final Year Project and Research Management System (FYPRMS) is a web-based platform designed to provide a centralized repository for storing, managing, searching, and accessing final year academic projects and research papers from universities across Tanzania. The system addresses the challenges associated with manual storage, fragmented repositories, duplication of research topics, and limited accessibility of academic resources. By digitizing project and research management processes, FYPRMS enhances knowledge sharing, promotes collaboration, preserves academic outputs, and supports research-driven innovation within higher learning institutions
 
 The system serves multiple stakeholders, including students, supervisors, researchers, librarians, and administrators. It enables secure submission of final year projects and research papers, efficient review and approval processes, advanced search functionality, and easy retrieval of academic documents. Through a centralized platform, universities can better manage their research assets while students and researchers gain access to valuable references for future studies.
@@ -315,3 +330,11 @@ Research analytics dashboard.
 CONCLUSION
 
 The Final Year Project and Research Management System (FYPRMS) provides a comprehensive solution for managing and preserving academic projects and research papers in Tanzania. By creating a centralized digital repository, the system improves accessibility, enhances knowledge sharing, reduces duplication of research topics, and supports the long-term preservation of academic resources. The platform empowers students, supervisors, researchers, and administrators to efficiently manage research outputs while contributing to the advancement of education and innovation across universities in Tanzania.
+
+Declaration
+
+I, HUSSEIN IDD SAMIHU (Reg. No. 14322006/T.24), hereby declare that this project titled “Final Year Project and Research Management System (FYPRMS)” is my own work developed for academic purposes as part of the requirements for the award of the Bachelor of Science in Information Technology Systems (BSc. ITS2) at Mzumbe University. All sources of information used during the development of this project have been appropriately acknowledged and referenced. This project has not been submitted to any other institution for academic credit or award.
+
+© 2026 Hussein – BSc. ITS2, Mzumbe University. All Rights Reserved.
+
+
