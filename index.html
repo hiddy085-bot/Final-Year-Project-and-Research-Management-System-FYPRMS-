@@ -1,0 +1,67 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>FYPRMS | Tanzania Academic Repository</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+</head>
+<body>
+<div id="container">
+    <div id="header">
+        <div id="logo">
+            <h1><span class="highlight">FYPRMS</span> Tanzania</h1>
+            <p>Final Year Project & Research Management System</p>
+        </div>
+        <div id="nav">
+            <ul>
+                <li><a href="#" onclick="loadPage('home'); return false;"><i class="fas fa-home"></i> Home</a></li>
+                <li><a href="#" onclick="loadPage('about'); return false;"><i class="fas fa-info-circle"></i> About System</a></li>
+                <li><a href="#" onclick="loadPage('education_gallery'); return false;"><i class="fas fa-images"></i> Education Gallery</a></li>
+
+                <li><a href="#" onclick="loadPage('search_projects'); return false;"><i class="fas fa-search"></i> Search Projects</a></li>
+                <li><a href="#" onclick="loadPage('search_research'); return false;"><i class="fas fa-file-alt"></i> Search Research</a></li>
+                <li id="nav-register"><a href="#" onclick="loadPage('register'); return false;"><i class="fas fa-user-plus"></i> Register</a></li>
+                <li id="nav-login"><a href="#" onclick="loadPage('login'); return false;"><i class="fas fa-sign-in-alt"></i> Login</a></li>
+                <li id="nav-dashboard" style="display:none;"><a href="#" onclick="loadPage('dashboard'); return false;"><i class="fas fa-tachometer-alt"></i> Dashboard</a></li>
+                <li id="nav-logout" style="display:none;"><a href="#" onclick="logout(); return false;"><i class="fas fa-sign-out-alt"></i> Logout</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div id="hero" class="hero-section">
+        <div class="hero-content">
+            <h2><i class="fas fa-graduation-cap"></i> National Academic Repository</h2>
+            <p>Preserving, sharing, and advancing research outputs from all Tanzanian universities.</p>
+            <div class="hero-buttons">
+                <button onclick="loadPage('search_projects')" class="btn-primary"><i class="fas fa-search"></i> Explore Projects</button>
+                <button onclick="loadPage('register')" class="btn-secondary"><i class="fas fa-user-plus"></i> Join as Student</button>
+            </div>
+        </div>
+    </div>
+
+    <div id="stats-container" class="stats-container">
+        <div class="stat-card"><i class="fas fa-project-diagram"></i><h3>Projects</h3><p id="stat-projects">0</p></div>
+        <div class="stat-card"><i class="fas fa-file-alt"></i><h3>Research Papers</h3><p id="stat-research">0</p></div>
+        <div class="stat-card"><i class="fas fa-university"></i><h3>Universities</h3><p id="stat-universities">0</p></div>
+        <div class="stat-card"><i class="fas fa-users"></i><h3>Users</h3><p id="stat-users">0</p></div>
+    </div>
+
+    <div id="dynamic-content" class="content-area">
+        <div class="welcome-message">
+            <i class="fas fa-chalkboard" style="font-size: 48px; color: #1e3c72; margin-bottom: 20px;"></i>
+            <h3>Welcome to FYPRMS</h3>
+            <p>Centralized repository for final year projects and research papers across Tanzania.</p>
+        </div>
+    </div>
+
+    <div id="footer">
+        <p><i class="far fa-copyright"></i> 2026 Final Year Project and Research Management System - Tanzania Higher Education</p>
+        <p><i class="fas fa-envelope"></i> support@fyprms.tz | <i class="fas fa-phone"></i> +255 617 945 051</p>
+    </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
