@@ -171,15 +171,12 @@ System Architecture
 Users
    │
    ▼
-   
 Web Interface (XHTML, CSS, JavaScript)
    │
    ▼
-   
 PHP Application Layer
    │
    ▼
-   
 MySQL Database
 
 The presentation layer handles user interaction, the application layer processes business logic, and the database layer stores all system records and documents.
